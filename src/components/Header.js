@@ -10,11 +10,11 @@ const Header = () => {
             Experience
           </a>
         </li>
-        <li>
+        {/* <li>
           <a href='#Projects' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Projects
           </a>
-        </li>
+        </li> */}
         <li>
           <a href='#Skill' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Skill

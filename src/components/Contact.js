@@ -5,7 +5,7 @@ const Contact = () => {
     <section className='my-28' id='contact'>
       <header className='px-5 text-2xl font-bold pt-10'>
         <h2>Contact Me</h2>
-        <p className='text-base font-thin'>I'd love to hear your thoughts!</p>
+        <p className='text-base font-thin'>Reach out to me in case you have any opportunity or just want to uhm...talk!</p>
       </header>
       <div className='md:mx-6 flex flex-col flex-wrap md:flex-row justify-between'>
         <div className='md:w-6/12 md:px-0 p-5 my-5'>
