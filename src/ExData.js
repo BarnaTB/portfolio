@@ -1,5 +1,18 @@
 const workHistory = [
     {
+        companyName: 'Xente',
+        role: 'Software Engineer',
+        duration: "March'22 – present",
+        workDes: [
+            'Lead the architectural design of the mobile application in Flutter.',
+            'Lead the UI/UX design process of the mobile app by working closely with the Product teams to understand user requirements and prioritizing features for an MVP.',
+            'Carry out sprint planning sessions and break down complex user needs into granular actionable tasks for the team to execute following an agile development process.',
+            'Mentor junior developers on the team to get around technical issues they come across during the execution of their tasks.'
+        ],
+        exposer: ["Dart", "Flutter", "GetX"],
+        link: 'https://xente.co/',
+    },
+    {
         companyName: 'BPOSeats',
         role: 'Backend Engineer',
         duration: "March'21 – Oct'21",
