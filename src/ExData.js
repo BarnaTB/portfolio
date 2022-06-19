@@ -9,7 +9,7 @@ const workHistory = [
             'Carry out sprint planning sessions and break down complex user needs into granular actionable tasks for the team to execute following an agile development process.',
             'Mentor junior developers on the team to get around technical issues they come across during the execution of their tasks.'
         ],
-        exposer: ["Dart", "Flutter", "GetX"],
+        exposer: ["Dart", "Flutter",],
         link: 'https://xente.co/',
     },
     {
