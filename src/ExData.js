@@ -1,16 +1,20 @@
 const workHistory = [
     {
-        companyName: 'Xente',
-        role: 'Software Engineer',
-        duration: "March'22 – present",
+        companyName: 'Clutch Technologies',
+        role: 'Senior Software Engineer',
+        duration: "October'21 – present",
         workDes: [
-            'Lead the architectural design of the mobile application in Flutter.',
-            'Lead the UI/UX design process of the mobile app by working closely with the Product teams to understand user requirements and prioritizing features for an MVP.',
-            'Carry out sprint planning sessions and break down complex user needs into granular actionable tasks for the team to execute following an agile development process.',
-            'Mentor junior developers on the team to get around technical issues they come across during the execution of their tasks.'
+            'Led the system design of the backend API for Scholine, a school management system enabling schools to manage their curriculum, keep track of teachers’ productivity, and tally test results which are used to generate a report for parents via their mobile application.',
+            'Built robust GraphQL APIs that interface with both PostgreSQL, and MongoDB databases.',
+            'Introduced and followed a strict TDD methodology to ensure that a minimum amount of code is written to satisfy user needs, as well as ensure that breaking changes can easily be tracked.',
+            'Dockerized the backend API to ensure that there’s a coherent development environment across the team.',
+            'Built CI/CD pipelines using docker images via GitHub Actions to deployment on GCP Compute Engine and leading the backend/DevOps infrastructure teams.',
+            'Setup and manage an agile dev cycle(scrum) within the organization to bring about fast delivery of features and bug fixes and manage the CI/CD delivery pipeline from the conception of user requirements to their breakdown into granular actionable tasks using git, CircleCI, GitHub Actions, and codeclimate to maintain a high quality of code hence minimizing tech debt.',
+            'Mentor and support a team of junior engineers to debug code and provide clarity on tasks to meet user requirements in an agile development cycle.',
+            'Lead the frontend team to build a responsive user interface for a product called Scholine which provides a management dashboard for schools and enables them to track staff performance, compile reports on learner performance, and relay them to guardians via their mobile app. The stack is React/Apollo and Tailwind CSS.'
         ],
-        exposer: ["Dart", "Flutter",],
-        link: 'https://xente.co/',
+        exposer: ["ReactJS", "TailwindCSS", "Django", "Python", "Celery", "RabbitMQ", "Docker", "Heroku", "CircleCI", "Digital Ocean"],
+        link: 'https://clutchtechnologies.org/',
     },
     {
         companyName: 'BPOSeats',
@@ -32,9 +36,11 @@ const workHistory = [
             'Built backend Django graphene APIs for Sail Access, an online consultancy platform that enables clients to remotely find consultancy solutions in a plethora of fields including legal, mining, technology, procurement, and marketing.',
             'Led backend architecture design for Sail Access, which included architecting a scalable database design and managing our DevOps infrastructure using Digital Ocean.',
             'Led the full-stack architecture of Sail Live, a paid event live-streaming web application using React, Redux, Firebase, AWS Kinesis Video Streams, and daily.co video API.',
+            'Led the frontend development of Sail Live, a paid event live-streaming web application using React, Redux, Firebase, WebRTC, AWS Kinesis Video Streams, and daily.co video API.',
             'Led a team of mobile app developers that built a mobile application called Sail Live, a paid event live-streaming application using Flutter, Firebase, and daily.co video API.',
-            'Inspired and oversaw the rebuild of the company’s official website in conjunction with various stakeholders; from UI/UX designers to the developers.',
-            'Led a recruitment process that has led to the recruitment of one UI/UX designer, two developers.'
+            'Inspired and oversaw the rebuild of the company’s official website in conjunction with various stakeholders; including UI/UX designers, software developers and senior management.',
+            'Supported a recruitment process that has led to the recruitment of one UI/UX designer, two developers.',
+            'Led product development teams wherein I interfaced with our product’s clients, received feedback, and bug reports, relayed them to the engineering team, and drove discussions around ways to ship the solution in the shortest amount of time with the most value.'
         ],
         exposer: ["Python", "ReactJS", "Django", "GraphQL", "PostgreSQL", "Firebase", "Digital Ocean", "CI/CD"],
         link: 'https://sailglobalcorp.com/',
